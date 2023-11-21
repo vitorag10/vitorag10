@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vítor Hugo👋
-Sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas do CEUB, buscando oportunidades como desenvolvedor fornt-end.
+Sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas do CEUB, buscando oportunidades como desenvolvedor front-end.
 
 [![C#](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
