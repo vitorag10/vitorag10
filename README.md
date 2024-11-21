@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vítor Hugo👋
-Sou estudante do quarto semestre de Análise e Desenvolvimento de Sistemas do CEUB, buscando oportunidades como desenvolvedor front-end.
+Sou Análista e Desenvolvedor de Sitemas, formado em Análise e Desenvolvimento de Sistemas no CEUB, buscando oportunidades como Desenvolvedor ou Análista de Sitemas.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
